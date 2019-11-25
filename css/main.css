@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px
+}
+#map-canvas{
+    height: 500px;
+    width: 500px;
+}
+#notebook textarea#text{
+    height: 100px;
+    width: 400px;
+}
+.all_notes .notes span.span_1{
+}
+.all_notes .notes span.span_2{
+    display: block;
+    width: 400px;
+}
+.all_notes .notes span.span_3{
+}
+.all_notes .notes{
+    float: left;
+}
+#map-iframe{
+    width: 1000px;
+    height: 500px;
+}
